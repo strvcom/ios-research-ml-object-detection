@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="m9C-EO-sFH">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15509"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Realtime Object Detection View Controller-->
+        <scene sceneID="RfY-N3-Wco">
+            <objects>
+                <viewController id="m9C-EO-sFH" customClass="RealtimeObjectDetectionViewController" customModule="TuriCreate" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="igx-yx-irw">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mKy-FW-DtP" customClass="CameraPreview" customModule="TuriCreate" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="812"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gXx-30-PDq">
+                                <rect key="frame" x="0.0" y="812" width="414" height="50"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="EKh-ob-Q9n">
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="50"/>
+                                        <subviews>
+                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rfI-WV-RCO">
+                                                <rect key="frame" x="0.0" y="0.0" width="414" height="50"/>
+                                                <subviews>
+                                                    <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="LVo-at-yaa">
+                                                        <rect key="frame" x="16" y="8" width="382" height="35"/>
+                                                        <segments>
+                                                            <segment title="Fruits 2000"/>
+                                                            <segment title="Custom Model"/>
+                                                        </segments>
+                                                        <connections>
+                                                            <action selector="modelSelectionDidChange" destination="m9C-EO-sFH" eventType="valueChanged" id="gbN-3v-tb2"/>
+                                                        </connections>
+                                                    </segmentedControl>
+                                                </subviews>
+                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <constraints>
+                                                    <constraint firstItem="LVo-at-yaa" firstAttribute="top" secondItem="rfI-WV-RCO" secondAttribute="top" constant="8" id="B5A-Uw-oEy"/>
+                                                    <constraint firstAttribute="bottom" secondItem="LVo-at-yaa" secondAttribute="bottom" constant="8" id="XCB-6Y-mBk"/>
+                                                    <constraint firstItem="LVo-at-yaa" firstAttribute="leading" secondItem="rfI-WV-RCO" secondAttribute="leading" constant="16" id="gyv-3f-iC1"/>
+                                                    <constraint firstAttribute="trailing" secondItem="LVo-at-yaa" secondAttribute="trailing" constant="16" id="iy6-PI-83l"/>
+                                                </constraints>
+                                            </view>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="6Lr-dM-AuG"/>
+                                    <constraint firstAttribute="trailing" secondItem="EKh-ob-Q9n" secondAttribute="trailing" id="NNd-YP-ip2"/>
+                                    <constraint firstItem="EKh-ob-Q9n" firstAttribute="top" secondItem="gXx-30-PDq" secondAttribute="top" id="cWh-6o-pgj"/>
+                                    <constraint firstAttribute="bottom" secondItem="EKh-ob-Q9n" secondAttribute="bottom" id="gUJ-rX-xZp"/>
+                                    <constraint firstItem="EKh-ob-Q9n" firstAttribute="leading" secondItem="gXx-30-PDq" secondAttribute="leading" id="kHl-Wf-ZVM"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="mKy-FW-DtP" firstAttribute="top" secondItem="igx-yx-irw" secondAttribute="top" id="AYa-Pb-Yhc"/>
+                            <constraint firstItem="gXx-30-PDq" firstAttribute="top" secondItem="mKy-FW-DtP" secondAttribute="bottom" id="CuB-CU-FRn"/>
+                            <constraint firstItem="gXx-30-PDq" firstAttribute="leading" secondItem="KZr-Wh-ReM" secondAttribute="leading" id="D4k-7q-1UY"/>
+                            <constraint firstItem="KZr-Wh-ReM" firstAttribute="bottom" secondItem="gXx-30-PDq" secondAttribute="bottom" id="HU7-hS-p6U"/>
+                            <constraint firstItem="KZr-Wh-ReM" firstAttribute="trailing" secondItem="mKy-FW-DtP" secondAttribute="trailing" id="dVo-cl-Waf"/>
+                            <constraint firstItem="mKy-FW-DtP" firstAttribute="leading" secondItem="KZr-Wh-ReM" secondAttribute="leading" id="kPF-Hy-j28"/>
+                            <constraint firstItem="KZr-Wh-ReM" firstAttribute="trailing" secondItem="gXx-30-PDq" secondAttribute="trailing" id="tf0-Sp-3rM"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="KZr-Wh-ReM"/>
+                    </view>
+                    <connections>
+                        <outlet property="modelSegmentedControl" destination="LVo-at-yaa" id="obz-Zz-0uj"/>
+                        <outlet property="previewView" destination="mKy-FW-DtP" id="Yfw-0L-jHB"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="mvE-Cd-oi5" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="137.68115942028987" y="138.61607142857142"/>
+        </scene>
+    </scenes>
+</document>
