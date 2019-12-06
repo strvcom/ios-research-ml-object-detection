@@ -63,16 +63,16 @@ extension VisionService {
     }
 
     private func setupVisionModel() {
-        guard let leftHandModel = try? VNCoreMLModel(for: MLModelService.getModel()) else {
+        guard let model = try? VNCoreMLModel(for: MLModelService.getModel()) else {
             fatalError("Can't load Vision ML model")
         }
 
-        let request = VNCoreMLRequest(model: leftHandModel, completionHandler: handCompletionRequestHandler)
+        let request = VNCoreMLRequest(model: model, completionHandler: completionRequestHandler)
         request.imageCropAndScaleOption = .scaleFill
         self.requests = [request]
     }
 
-    func handCompletionRequestHandler(request: VNRequest, error: Error?) {
+    func completionRequestHandler(request: VNRequest, error: Error?) {
         guard let observations = request.results as? [VNRecognizedObjectObservation], !observations.isEmpty else {
             return
         }
@@ -104,15 +104,24 @@ extension VisionService {
             let rectangleBounds = result.boundingBox.applying(translate).applying(transform)
 
             let color = UIColor.yellow
-            previewView.drawLayer(in: rectangleBounds, color: color, with: result.formatConfidenceResult())
+            previewView.drawLayer(in: rectangleBounds, color: color, with: result.formattedConfidenceLabel)
         }
     }
 }
 
 extension VNRecognizedObjectObservation {
-    func formatConfidenceResult() -> String {
-        guard let identifier = self.labels.first?.identifier else { return ""}
-        
-        return "\(identifier): \(Int(self.confidence * 100))%"
+    var formattedConfidenceLabel: String {
+        guard let identifier = self.labels.first?.identifier else { return "" }
+
+        let percentageFormatter = NumberFormatter()
+        percentageFormatter.numberStyle = .percent
+
+        guard
+            let value = percentageFormatter.string(from: NSNumber(value: confidence))
+        else {
+            return ""
+        }
+
+        return "\(identifier): \(value)"
     }
 }
