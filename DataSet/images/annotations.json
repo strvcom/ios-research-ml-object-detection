@@ -1,0 +1,5735 @@
+[
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 171,
+                    "x": 410,
+                    "width": 138,
+                    "height": 273
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 163,
+                    "x": 140,
+                    "width": 64,
+                    "height": 68
+                }
+            }
+        ],
+        "image": "Fruits0.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 161,
+                    "x": 252,
+                    "width": 111,
+                    "height": 214
+                }
+            }
+        ],
+        "image": "Fruits1.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 243,
+                    "x": 206,
+                    "width": 135,
+                    "height": 276
+                }
+            }
+        ],
+        "image": "Fruits2.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 205,
+                    "x": 177,
+                    "width": 105,
+                    "height": 194
+                }
+            }
+        ],
+        "image": "Fruits3.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 242,
+                    "x": 295,
+                    "width": 137,
+                    "height": 276
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 184,
+                    "x": 88,
+                    "width": 62,
+                    "height": 64
+                }
+            }
+        ],
+        "image": "Fruits4.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 184,
+                    "x": 89,
+                    "width": 55,
+                    "height": 54
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 164,
+                    "x": 346,
+                    "width": 85,
+                    "height": 160
+                }
+            }
+        ],
+        "image": "Fruits5.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 138,
+                    "x": 245,
+                    "width": 119,
+                    "height": 136
+                }
+            }
+        ],
+        "image": "Fruits6.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 204,
+                    "x": 266,
+                    "width": 122,
+                    "height": 137
+                }
+            }
+        ],
+        "image": "Fruits7.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 180,
+                    "x": 251,
+                    "width": 76,
+                    "height": 77
+                }
+            }
+        ],
+        "image": "Fruits8.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 169,
+                    "x": 297,
+                    "width": 163,
+                    "height": 109
+                }
+            }
+        ],
+        "image": "Fruits9.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 174,
+                    "x": 234,
+                    "width": 81,
+                    "height": 56
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 182,
+                    "x": 309,
+                    "width": 69,
+                    "height": 59
+                }
+            }
+        ],
+        "image": "Fruits10.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 194,
+                    "x": 171,
+                    "width": 114,
+                    "height": 118
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 175,
+                    "x": 325,
+                    "width": 85,
+                    "height": 111
+                }
+            }
+        ],
+        "image": "Fruits11.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 171,
+                    "x": 188,
+                    "width": 118,
+                    "height": 108
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 162,
+                    "x": 342,
+                    "width": 85,
+                    "height": 104
+                }
+            }
+        ],
+        "image": "Fruits12.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 193,
+                    "x": 274,
+                    "width": 231,
+                    "height": 229
+                }
+            }
+        ],
+        "image": "Fruits13.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 124,
+                    "x": 250,
+                    "width": 148,
+                    "height": 151
+                }
+            }
+        ],
+        "image": "Fruits14.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 158,
+                    "x": 244,
+                    "width": 179,
+                    "height": 138
+                }
+            }
+        ],
+        "image": "Fruits15.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 186,
+                    "x": 186,
+                    "width": 171,
+                    "height": 141
+                }
+            }
+        ],
+        "image": "Fruits16.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 186,
+                    "x": 298,
+                    "width": 129,
+                    "height": 113
+                }
+            }
+        ],
+        "image": "Fruits17.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 202,
+                    "x": 154,
+                    "width": 89,
+                    "height": 108
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 116,
+                    "x": 192,
+                    "width": 96,
+                    "height": 184
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 212,
+                    "x": 261,
+                    "width": 68,
+                    "height": 67
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 225,
+                    "x": 374,
+                    "width": 69,
+                    "height": 72
+                }
+            }
+        ],
+        "image": "Fruits18.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 193,
+                    "x": 362,
+                    "width": 61,
+                    "height": 62
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 207,
+                    "x": 261,
+                    "width": 54,
+                    "height": 72
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 229,
+                    "x": 162,
+                    "width": 115,
+                    "height": 101
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 129,
+                    "x": 167,
+                    "width": 96,
+                    "height": 174
+                }
+            }
+        ],
+        "image": "Fruits19.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 122,
+                    "x": 145,
+                    "width": 109,
+                    "height": 211
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 222,
+                    "x": 126,
+                    "width": 131,
+                    "height": 109
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 212,
+                    "x": 249,
+                    "width": 69,
+                    "height": 72
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 199,
+                    "x": 374,
+                    "width": 74,
+                    "height": 82
+                }
+            }
+        ],
+        "image": "Fruits20.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 183,
+                    "x": 282,
+                    "width": 109,
+                    "height": 114
+                }
+            }
+        ],
+        "image": "Fruits21.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 177,
+                    "x": 265,
+                    "width": 117,
+                    "height": 133
+                }
+            }
+        ],
+        "image": "Fruits22.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 239,
+                    "x": 140,
+                    "width": 136,
+                    "height": 149
+                }
+            }
+        ],
+        "image": "Fruits23.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 186,
+                    "x": 139,
+                    "width": 138,
+                    "height": 115
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 198,
+                    "x": 343,
+                    "width": 127,
+                    "height": 116
+                }
+            }
+        ],
+        "image": "Fruits24.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 135,
+                    "x": 163,
+                    "width": 145,
+                    "height": 100
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 168,
+                    "x": 335,
+                    "width": 209,
+                    "height": 133
+                }
+            }
+        ],
+        "image": "Fruits25.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 191,
+                    "x": 194,
+                    "width": 145,
+                    "height": 128
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 181,
+                    "x": 404,
+                    "width": 111,
+                    "height": 105
+                }
+            }
+        ],
+        "image": "Fruits26.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 220,
+                    "x": 244,
+                    "width": 129,
+                    "height": 139
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 184,
+                    "x": 452,
+                    "width": 99,
+                    "height": 88
+                }
+            }
+        ],
+        "image": "Fruits27.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 237,
+                    "x": 276,
+                    "width": 210,
+                    "height": 230
+                }
+            }
+        ],
+        "image": "Fruits28.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 297,
+                    "x": 220,
+                    "width": 186,
+                    "height": 122
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 213,
+                    "x": 112,
+                    "width": 106,
+                    "height": 75
+                }
+            }
+        ],
+        "image": "Fruits29.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 159,
+                    "x": 181,
+                    "width": 113,
+                    "height": 87
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 189,
+                    "x": 333,
+                    "width": 194,
+                    "height": 123
+                }
+            }
+        ],
+        "image": "Fruits30.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 205,
+                    "x": 291,
+                    "width": 161,
+                    "height": 332
+                }
+            }
+        ],
+        "image": "Fruits31.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 311,
+                    "x": 197,
+                    "width": 108,
+                    "height": 213
+                }
+            }
+        ],
+        "image": "Fruits32.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 263,
+                    "x": 185,
+                    "width": 125,
+                    "height": 264
+                }
+            }
+        ],
+        "image": "Fruits33.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 158,
+                    "x": 196,
+                    "width": 133,
+                    "height": 277
+                }
+            }
+        ],
+        "image": "Fruits34.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 224,
+                    "x": 174,
+                    "width": 125,
+                    "height": 260
+                }
+            }
+        ],
+        "image": "Fruits35.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 260,
+                    "x": 176,
+                    "width": 121,
+                    "height": 248
+                }
+            }
+        ],
+        "image": "Fruits36.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 247,
+                    "x": 277,
+                    "width": 130,
+                    "height": 138
+                }
+            }
+        ],
+        "image": "Fruits37.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 197,
+                    "x": 258,
+                    "width": 168,
+                    "height": 175
+                }
+            }
+        ],
+        "image": "Fruits38.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 177,
+                    "x": 306,
+                    "width": 229,
+                    "height": 125
+                }
+            }
+        ],
+        "image": "Fruits39.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 239,
+                    "x": 184,
+                    "width": 230,
+                    "height": 146
+                }
+            }
+        ],
+        "image": "Fruits40.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 226,
+                    "x": 427,
+                    "width": 84,
+                    "height": 77
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 299,
+                    "x": 347,
+                    "width": 73,
+                    "height": 95
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 284,
+                    "x": 212,
+                    "width": 89,
+                    "height": 85
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 156,
+                    "x": 297,
+                    "width": 97,
+                    "height": 202
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 204,
+                    "x": 185,
+                    "width": 65,
+                    "height": 62
+                }
+            }
+        ],
+        "image": "Fruits41.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 296,
+                    "x": 97,
+                    "width": 85,
+                    "height": 59
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 386,
+                    "x": 127,
+                    "width": 94,
+                    "height": 89
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 255,
+                    "x": 205,
+                    "width": 104,
+                    "height": 213
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 246,
+                    "x": 158,
+                    "width": 41,
+                    "height": 55
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 447,
+                    "x": 288,
+                    "width": 130,
+                    "height": 114
+                }
+            }
+        ],
+        "image": "Fruits42.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 338,
+                    "x": 191,
+                    "width": 81,
+                    "height": 168
+                }
+            }
+        ],
+        "image": "Fruits43.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 184,
+                    "x": 194,
+                    "width": 94,
+                    "height": 201
+                }
+            }
+        ],
+        "image": "Fruits44.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 261,
+                    "x": 170,
+                    "width": 90,
+                    "height": 191
+                }
+            }
+        ],
+        "image": "Fruits45.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 247,
+                    "x": 192,
+                    "width": 181,
+                    "height": 367
+                }
+            }
+        ],
+        "image": "Fruits46.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 220,
+                    "x": 219,
+                    "width": 128,
+                    "height": 272
+                }
+            }
+        ],
+        "image": "Fruits47.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 177,
+                    "x": 266,
+                    "width": 108,
+                    "height": 235
+                }
+            }
+        ],
+        "image": "Fruits48.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 178,
+                    "x": 290,
+                    "width": 129,
+                    "height": 275
+                }
+            }
+        ],
+        "image": "Fruits49.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 291,
+                    "x": 179,
+                    "width": 84,
+                    "height": 170
+                }
+            }
+        ],
+        "image": "Fruits50.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 248,
+                    "x": 142,
+                    "width": 87,
+                    "height": 78
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 156,
+                    "x": 150,
+                    "width": 53,
+                    "height": 81
+                }
+            }
+        ],
+        "image": "Fruits51.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 169,
+                    "x": 263,
+                    "width": 174,
+                    "height": 199
+                }
+            }
+        ],
+        "image": "Fruits52.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 176,
+                    "x": 268,
+                    "width": 107,
+                    "height": 126
+                }
+            }
+        ],
+        "image": "Fruits53.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 125,
+                    "x": 356,
+                    "width": 158,
+                    "height": 169
+                }
+            }
+        ],
+        "image": "Fruits54.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 294,
+                    "x": 194,
+                    "width": 69,
+                    "height": 72
+                }
+            }
+        ],
+        "image": "Fruits55.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 285,
+                    "x": 200,
+                    "width": 170,
+                    "height": 194
+                }
+            }
+        ],
+        "image": "Fruits56.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 242,
+                    "x": 163,
+                    "width": 118,
+                    "height": 135
+                }
+            }
+        ],
+        "image": "Fruits57.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 179,
+                    "x": 262,
+                    "width": 91,
+                    "height": 151
+                }
+            }
+        ],
+        "image": "Fruits58.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 245,
+                    "x": 192,
+                    "width": 164,
+                    "height": 296
+                }
+            }
+        ],
+        "image": "Fruits59.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 159,
+                    "x": 317,
+                    "width": 134,
+                    "height": 213
+                }
+            }
+        ],
+        "image": "Fruits60.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 206,
+                    "x": 313,
+                    "width": 71,
+                    "height": 114
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 145,
+                    "x": 219,
+                    "width": 119,
+                    "height": 244
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 305,
+                    "x": 351,
+                    "width": 128,
+                    "height": 89
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 178,
+                    "x": 151,
+                    "width": 28,
+                    "height": 51
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 220,
+                    "x": 403,
+                    "width": 79,
+                    "height": 81
+                }
+            }
+        ],
+        "image": "Fruits61.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 146,
+                    "x": 220,
+                    "width": 90,
+                    "height": 190
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 200,
+                    "x": 359,
+                    "width": 57,
+                    "height": 62
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 169,
+                    "x": 162,
+                    "width": 39,
+                    "height": 49
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 259,
+                    "x": 323,
+                    "width": 90,
+                    "height": 60
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 188,
+                    "x": 291,
+                    "width": 52,
+                    "height": 83
+                }
+            }
+        ],
+        "image": "Fruits62.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 146,
+                    "x": 228,
+                    "width": 75,
+                    "height": 166
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 191,
+                    "x": 148,
+                    "width": 67,
+                    "height": 42
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 201,
+                    "x": 336,
+                    "width": 52,
+                    "height": 44
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 166,
+                    "x": 283,
+                    "width": 37,
+                    "height": 74
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 162,
+                    "x": 308,
+                    "width": 39,
+                    "height": 45
+                }
+            }
+        ],
+        "image": "Fruits63.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 213,
+                    "x": 377,
+                    "width": 60,
+                    "height": 56
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 230,
+                    "x": 126,
+                    "width": 99,
+                    "height": 64
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 149,
+                    "x": 254,
+                    "width": 107,
+                    "height": 237
+                }
+            }
+        ],
+        "image": "Fruits64.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 243,
+                    "x": 203,
+                    "width": 106,
+                    "height": 231
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 338,
+                    "x": 86,
+                    "width": 91,
+                    "height": 75
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 274,
+                    "x": 311,
+                    "width": 58,
+                    "height": 56
+                }
+            }
+        ],
+        "image": "Fruits65.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 246,
+                    "x": 158,
+                    "width": 93,
+                    "height": 200
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 304,
+                    "x": 313,
+                    "width": 68,
+                    "height": 71
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 368,
+                    "x": 256,
+                    "width": 109,
+                    "height": 74
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 289,
+                    "x": 234,
+                    "width": 59,
+                    "height": 90
+                }
+            }
+        ],
+        "image": "Fruits66.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 285,
+                    "x": 233,
+                    "width": 42,
+                    "height": 64
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 254,
+                    "x": 177,
+                    "width": 69,
+                    "height": 145
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 339,
+                    "x": 249,
+                    "width": 74,
+                    "height": 48
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 298,
+                    "x": 293,
+                    "width": 50,
+                    "height": 54
+                }
+            }
+        ],
+        "image": "Fruits67.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 189,
+                    "x": 341,
+                    "width": 50,
+                    "height": 51
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 219,
+                    "x": 302,
+                    "width": 71,
+                    "height": 47
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 173,
+                    "x": 283,
+                    "width": 42,
+                    "height": 64
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 146,
+                    "x": 228,
+                    "width": 69,
+                    "height": 143
+                }
+            }
+        ],
+        "image": "Fruits68.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 165,
+                    "x": 179,
+                    "width": 77,
+                    "height": 55
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 331,
+                    "x": 318,
+                    "width": 79,
+                    "height": 59
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 234,
+                    "x": 371,
+                    "width": 60,
+                    "height": 59
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 251,
+                    "x": 301,
+                    "width": 61,
+                    "height": 76
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 223,
+                    "x": 224,
+                    "width": 93,
+                    "height": 123
+                }
+            }
+        ],
+        "image": "Fruits69.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 157,
+                    "x": 177,
+                    "width": 78,
+                    "height": 58
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 324,
+                    "x": 318,
+                    "width": 78,
+                    "height": 62
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 227,
+                    "x": 371,
+                    "width": 62,
+                    "height": 58
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 229,
+                    "x": 226,
+                    "width": 95,
+                    "height": 104
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 250,
+                    "x": 302,
+                    "width": 56,
+                    "height": 83
+                }
+            }
+        ],
+        "image": "Fruits70.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 144,
+                    "x": 303,
+                    "width": 99,
+                    "height": 212
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 204,
+                    "x": 230,
+                    "width": 87,
+                    "height": 138
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 278,
+                    "x": 169,
+                    "width": 98,
+                    "height": 101
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 219,
+                    "x": 412,
+                    "width": 81,
+                    "height": 65
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 219,
+                    "x": 156,
+                    "width": 83,
+                    "height": 64
+                }
+            }
+        ],
+        "image": "Fruits71.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 241,
+                    "x": 387,
+                    "width": 82,
+                    "height": 53
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 201,
+                    "x": 206,
+                    "width": 57,
+                    "height": 43
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 232,
+                    "x": 170,
+                    "width": 66,
+                    "height": 62
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 196,
+                    "x": 241,
+                    "width": 51,
+                    "height": 104
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 166,
+                    "x": 305,
+                    "width": 79,
+                    "height": 167
+                }
+            }
+        ],
+        "image": "Fruits72.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 135,
+                    "x": 300,
+                    "width": 112,
+                    "height": 234
+                }
+            },
+            {
+                "label": "pomegranate",
+                "coordinates": {
+                    "y": 224,
+                    "x": 120,
+                    "width": 85,
+                    "height": 78
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 246,
+                    "x": 410,
+                    "width": 123,
+                    "height": 78
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 185,
+                    "x": 183,
+                    "width": 49,
+                    "height": 50
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 183,
+                    "x": 219,
+                    "width": 60,
+                    "height": 125
+                }
+            }
+        ],
+        "image": "Fruits73.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 173,
+                    "x": 308,
+                    "width": 228,
+                    "height": 122
+                }
+            }
+        ],
+        "image": "Fruits74.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 205,
+                    "x": 204,
+                    "width": 166,
+                    "height": 409
+                }
+            }
+        ],
+        "image": "Fruits75.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 204,
+                    "x": 201,
+                    "width": 169,
+                    "height": 407
+                }
+            }
+        ],
+        "image": "Fruits76.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 217,
+                    "x": 199,
+                    "width": 138,
+                    "height": 387
+                }
+            }
+        ],
+        "image": "Fruits77.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 296,
+                    "x": 198,
+                    "width": 110,
+                    "height": 99
+                }
+            }
+        ],
+        "image": "Fruits78.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 396,
+                    "x": 200,
+                    "width": 100,
+                    "height": 93
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 223,
+                    "x": 237,
+                    "width": 157,
+                    "height": 90
+                }
+            }
+        ],
+        "image": "Fruits79.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 318,
+                    "x": 119,
+                    "width": 114,
+                    "height": 91
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 289,
+                    "x": 292,
+                    "width": 144,
+                    "height": 90
+                }
+            }
+        ],
+        "image": "Fruits80.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 360,
+                    "x": 256,
+                    "width": 168,
+                    "height": 127
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 316,
+                    "x": 151,
+                    "width": 80,
+                    "height": 68
+                }
+            }
+        ],
+        "image": "Fruits81.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 317,
+                    "x": 201,
+                    "width": 108,
+                    "height": 114
+                }
+            }
+        ],
+        "image": "Fruits82.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 310,
+                    "x": 211,
+                    "width": 110,
+                    "height": 200
+                }
+            }
+        ],
+        "image": "Fruits83.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 301,
+                    "x": 210,
+                    "width": 115,
+                    "height": 200
+                }
+            }
+        ],
+        "image": "Fruits84.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 256,
+                    "x": 200,
+                    "width": 189,
+                    "height": 135
+                }
+            }
+        ],
+        "image": "Fruits85.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 291,
+                    "x": 189,
+                    "width": 136,
+                    "height": 81
+                }
+            }
+        ],
+        "image": "Fruits86.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 302,
+                    "x": 198,
+                    "width": 276,
+                    "height": 164
+                }
+            }
+        ],
+        "image": "Fruits87.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 275,
+                    "x": 210,
+                    "width": 245,
+                    "height": 134
+                }
+            }
+        ],
+        "image": "Fruits88.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 201,
+                    "x": 190,
+                    "width": 120,
+                    "height": 367
+                }
+            }
+        ],
+        "image": "Fruits89.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 170,
+                    "x": 214,
+                    "width": 145,
+                    "height": 339
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 280,
+                    "x": 37,
+                    "width": 62,
+                    "height": 44
+                }
+            }
+        ],
+        "image": "Fruits90.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 184,
+                    "x": 163,
+                    "width": 211,
+                    "height": 367
+                }
+            }
+        ],
+        "image": "Fruits91.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 251,
+                    "x": 183,
+                    "width": 212,
+                    "height": 279
+                }
+            }
+        ],
+        "image": "Fruits92.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 228,
+                    "x": 162,
+                    "width": 187,
+                    "height": 281
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 200,
+                    "x": 368,
+                    "width": 55,
+                    "height": 55
+                }
+            }
+        ],
+        "image": "Fruits93.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 227,
+                    "x": 197,
+                    "width": 167,
+                    "height": 274
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 65,
+                    "x": 251,
+                    "width": 46,
+                    "height": 37
+                }
+            }
+        ],
+        "image": "Fruits94.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 209,
+                    "x": 212,
+                    "width": 150,
+                    "height": 384
+                }
+            }
+        ],
+        "image": "Fruits95.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 205,
+                    "x": 233,
+                    "width": 110,
+                    "height": 345
+                }
+            }
+        ],
+        "image": "Fruits96.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 224,
+                    "x": 222,
+                    "width": 135,
+                    "height": 266
+                }
+            }
+        ],
+        "image": "Fruits97.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 246,
+                    "x": 224,
+                    "width": 255,
+                    "height": 404
+                }
+            }
+        ],
+        "image": "Fruits98.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 246,
+                    "x": 228,
+                    "width": 246,
+                    "height": 409
+                }
+            }
+        ],
+        "image": "Fruits99.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 339,
+                    "x": 195,
+                    "width": 157,
+                    "height": 150
+                }
+            }
+        ],
+        "image": "Fruits100.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 341,
+                    "x": 194,
+                    "width": 160,
+                    "height": 152
+                }
+            }
+        ],
+        "image": "Fruits101.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 289,
+                    "x": 199,
+                    "width": 173,
+                    "height": 106
+                }
+            }
+        ],
+        "image": "Fruits102.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 312,
+                    "x": 193,
+                    "width": 190,
+                    "height": 113
+                }
+            }
+        ],
+        "image": "Fruits103.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 301,
+                    "x": 231,
+                    "width": 134,
+                    "height": 204
+                }
+            }
+        ],
+        "image": "Fruits104.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 113,
+                    "x": 290,
+                    "width": 305,
+                    "height": 171
+                }
+            }
+        ],
+        "image": "Fruits105.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 288,
+                    "x": 192,
+                    "width": 156,
+                    "height": 165
+                }
+            }
+        ],
+        "image": "Fruits106.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 295,
+                    "x": 192,
+                    "width": 159,
+                    "height": 175
+                }
+            }
+        ],
+        "image": "Fruits107.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 304,
+                    "x": 194,
+                    "width": 171,
+                    "height": 290
+                }
+            }
+        ],
+        "image": "Fruits108.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 289,
+                    "x": 211,
+                    "width": 200,
+                    "height": 221
+                }
+            }
+        ],
+        "image": "Fruits109.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 265,
+                    "x": 208,
+                    "width": 220,
+                    "height": 148
+                }
+            },
+            {
+                "label": "pineapple",
+                "coordinates": {
+                    "y": 109,
+                    "x": 341,
+                    "width": 95,
+                    "height": 213
+                }
+            }
+        ],
+        "image": "Fruits110.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 286,
+                    "x": 269,
+                    "width": 226,
+                    "height": 142
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 190,
+                    "x": 137,
+                    "width": 64,
+                    "height": 53
+                }
+            }
+        ],
+        "image": "Fruits111.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 298,
+                    "x": 192,
+                    "width": 141,
+                    "height": 155
+                }
+            }
+        ],
+        "image": "Fruits112.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 246,
+                    "x": 210,
+                    "width": 188,
+                    "height": 181
+                }
+            }
+        ],
+        "image": "Fruits113.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 260,
+                    "x": 174,
+                    "width": 162,
+                    "height": 137
+                }
+            }
+        ],
+        "image": "Fruits114.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 262,
+                    "x": 194,
+                    "width": 160,
+                    "height": 128
+                }
+            }
+        ],
+        "image": "Fruits115.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 314,
+                    "x": 209,
+                    "width": 196,
+                    "height": 164
+                }
+            }
+        ],
+        "image": "Fruits116.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 299,
+                    "x": 225,
+                    "width": 175,
+                    "height": 155
+                }
+            }
+        ],
+        "image": "Fruits117.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 218,
+                    "x": 219,
+                    "width": 148,
+                    "height": 123
+                }
+            },
+            {
+                "label": "dragonfruit",
+                "coordinates": {
+                    "y": 51,
+                    "x": 247,
+                    "width": 78,
+                    "height": 49
+                }
+            }
+        ],
+        "image": "Fruits118.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 131,
+                    "x": 232,
+                    "width": 126,
+                    "height": 104
+                }
+            }
+        ],
+        "image": "Fruits119.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 260,
+                    "x": 212,
+                    "width": 122,
+                    "height": 136
+                }
+            }
+        ],
+        "image": "Fruits120.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 247,
+                    "x": 272,
+                    "width": 128,
+                    "height": 136
+                }
+            }
+        ],
+        "image": "Fruits121.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 282,
+                    "x": 258,
+                    "width": 115,
+                    "height": 91
+                }
+            }
+        ],
+        "image": "Fruits122.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 281,
+                    "x": 259,
+                    "width": 117,
+                    "height": 93
+                }
+            }
+        ],
+        "image": "Fruits123.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 292,
+                    "x": 187,
+                    "width": 112,
+                    "height": 85
+                }
+            }
+        ],
+        "image": "Fruits124.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 260,
+                    "x": 129,
+                    "width": 131,
+                    "height": 141
+                }
+            }
+        ],
+        "image": "Fruits125.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 242,
+                    "x": 272,
+                    "width": 133,
+                    "height": 102
+                }
+            }
+        ],
+        "image": "Fruits126.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 298,
+                    "x": 205,
+                    "width": 105,
+                    "height": 90
+                }
+            }
+        ],
+        "image": "Fruits127.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 271,
+                    "x": 112,
+                    "width": 122,
+                    "height": 99
+                }
+            }
+        ],
+        "image": "Fruits128.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 355,
+                    "x": 192,
+                    "width": 118,
+                    "height": 143
+                }
+            }
+        ],
+        "image": "Fruits129.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 372,
+                    "x": 193,
+                    "width": 109,
+                    "height": 135
+                }
+            }
+        ],
+        "image": "Fruits130.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 171,
+                    "x": 222,
+                    "width": 122,
+                    "height": 129
+                }
+            }
+        ],
+        "image": "Fruits131.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 322,
+                    "x": 186,
+                    "width": 150,
+                    "height": 137
+                }
+            }
+        ],
+        "image": "Fruits132.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 299,
+                    "x": 274,
+                    "width": 164,
+                    "height": 140
+                }
+            }
+        ],
+        "image": "Fruits133.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 301,
+                    "x": 140,
+                    "width": 86,
+                    "height": 92
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 242,
+                    "x": 234,
+                    "width": 66,
+                    "height": 65
+                }
+            }
+        ],
+        "image": "Fruits134.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 300,
+                    "x": 142,
+                    "width": 87,
+                    "height": 95
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 241,
+                    "x": 234,
+                    "width": 67,
+                    "height": 64
+                }
+            }
+        ],
+        "image": "Fruits135.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 253,
+                    "x": 140,
+                    "width": 95,
+                    "height": 107
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 226,
+                    "x": 233,
+                    "width": 69,
+                    "height": 80
+                }
+            }
+        ],
+        "image": "Fruits136.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 250,
+                    "x": 140,
+                    "width": 99,
+                    "height": 110
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 224,
+                    "x": 233,
+                    "width": 68,
+                    "height": 81
+                }
+            }
+        ],
+        "image": "Fruits137.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 261,
+                    "x": 166,
+                    "width": 90,
+                    "height": 90
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 260,
+                    "x": 290,
+                    "width": 74,
+                    "height": 84
+                }
+            }
+        ],
+        "image": "Fruits138.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 261,
+                    "x": 165,
+                    "width": 88,
+                    "height": 96
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 261,
+                    "x": 291,
+                    "width": 74,
+                    "height": 86
+                }
+            }
+        ],
+        "image": "Fruits139.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 275,
+                    "x": 223,
+                    "width": 179,
+                    "height": 192
+                }
+            }
+        ],
+        "image": "Fruits140.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 248,
+                    "x": 143,
+                    "width": 162,
+                    "height": 182
+                }
+            }
+        ],
+        "image": "Fruits141.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 313,
+                    "x": 152,
+                    "width": 166,
+                    "height": 173
+                }
+            }
+        ],
+        "image": "Fruits142.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 311,
+                    "x": 124,
+                    "width": 144,
+                    "height": 144
+                }
+            }
+        ],
+        "image": "Fruits143.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 313,
+                    "x": 125,
+                    "width": 143,
+                    "height": 143
+                }
+            }
+        ],
+        "image": "Fruits144.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 366,
+                    "x": 235,
+                    "width": 190,
+                    "height": 189
+                }
+            }
+        ],
+        "image": "Fruits145.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 401,
+                    "x": 207,
+                    "width": 110,
+                    "height": 121
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 337,
+                    "x": 221,
+                    "width": 82,
+                    "height": 72
+                }
+            }
+        ],
+        "image": "Fruits146.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 332,
+                    "x": 178,
+                    "width": 96,
+                    "height": 113
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 315,
+                    "x": 366,
+                    "width": 66,
+                    "height": 105
+                }
+            }
+        ],
+        "image": "Fruits147.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 299,
+                    "x": 260,
+                    "width": 95,
+                    "height": 101
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 332,
+                    "x": 48,
+                    "width": 97,
+                    "height": 114
+                }
+            }
+        ],
+        "image": "Fruits148.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 235,
+                    "x": 127,
+                    "width": 85,
+                    "height": 94
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 259,
+                    "x": 260,
+                    "width": 109,
+                    "height": 120
+                }
+            }
+        ],
+        "image": "Fruits149.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 307,
+                    "x": 227,
+                    "width": 85,
+                    "height": 94
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 280,
+                    "x": 189,
+                    "width": 52,
+                    "height": 68
+                }
+            }
+        ],
+        "image": "Fruits150.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 306,
+                    "x": 227,
+                    "width": 89,
+                    "height": 97
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 279,
+                    "x": 189,
+                    "width": 54,
+                    "height": 68
+                }
+            }
+        ],
+        "image": "Fruits151.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 332,
+                    "x": 216,
+                    "width": 99,
+                    "height": 100
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 242,
+                    "x": 160,
+                    "width": 69,
+                    "height": 78
+                }
+            }
+        ],
+        "image": "Fruits152.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 327,
+                    "x": 215,
+                    "width": 99,
+                    "height": 100
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 235,
+                    "x": 159,
+                    "width": 71,
+                    "height": 76
+                }
+            }
+        ],
+        "image": "Fruits153.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 273,
+                    "x": 163,
+                    "width": 89,
+                    "height": 89
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 414,
+                    "x": 257,
+                    "width": 115,
+                    "height": 118
+                }
+            }
+        ],
+        "image": "Fruits154.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 226,
+                    "x": 176,
+                    "width": 80,
+                    "height": 84
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 316,
+                    "x": 205,
+                    "width": 111,
+                    "height": 119
+                }
+            }
+        ],
+        "image": "Fruits155.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 186,
+                    "x": 266,
+                    "width": 109,
+                    "height": 110
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 41,
+                    "x": 186,
+                    "width": 60,
+                    "height": 70
+                }
+            }
+        ],
+        "image": "Fruits156.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 245,
+                    "x": 289,
+                    "width": 109,
+                    "height": 111
+                }
+            }
+        ],
+        "image": "Fruits157.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 249,
+                    "x": 286,
+                    "width": 111,
+                    "height": 116
+                }
+            }
+        ],
+        "image": "Fruits158.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 288,
+                    "x": 222,
+                    "width": 95,
+                    "height": 89
+                }
+            }
+        ],
+        "image": "Fruits159.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 287,
+                    "x": 222,
+                    "width": 97,
+                    "height": 89
+                }
+            }
+        ],
+        "image": "Fruits160.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 258,
+                    "x": 229,
+                    "width": 114,
+                    "height": 98
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 146,
+                    "x": 194,
+                    "width": 60,
+                    "height": 58
+                }
+            }
+        ],
+        "image": "Fruits161.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 255,
+                    "x": 230,
+                    "width": 113,
+                    "height": 98
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 142,
+                    "x": 193,
+                    "width": 64,
+                    "height": 57
+                }
+            }
+        ],
+        "image": "Fruits162.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 295,
+                    "x": 223,
+                    "width": 119,
+                    "height": 113
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 122,
+                    "x": 78,
+                    "width": 76,
+                    "height": 72
+                }
+            }
+        ],
+        "image": "Fruits163.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 271,
+                    "x": 240,
+                    "width": 129,
+                    "height": 141
+                }
+            }
+        ],
+        "image": "Fruits164.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 233,
+                    "x": 186,
+                    "width": 96,
+                    "height": 101
+                }
+            }
+        ],
+        "image": "Fruits165.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 222,
+                    "x": 189,
+                    "width": 85,
+                    "height": 84
+                }
+            }
+        ],
+        "image": "Fruits166.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 252,
+                    "x": 195,
+                    "width": 95,
+                    "height": 109
+                }
+            }
+        ],
+        "image": "Fruits167.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 255,
+                    "x": 228,
+                    "width": 102,
+                    "height": 119
+                }
+            }
+        ],
+        "image": "Fruits168.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 269,
+                    "x": 183,
+                    "width": 79,
+                    "height": 85
+                }
+            }
+        ],
+        "image": "Fruits169.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 273,
+                    "x": 275,
+                    "width": 96,
+                    "height": 100
+                }
+            }
+        ],
+        "image": "Fruits170.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 347,
+                    "x": 234,
+                    "width": 113,
+                    "height": 117
+                }
+            }
+        ],
+        "image": "Fruits171.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 286,
+                    "x": 190,
+                    "width": 90,
+                    "height": 101
+                }
+            }
+        ],
+        "image": "Fruits172.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 168,
+                    "x": 186,
+                    "width": 253,
+                    "height": 282
+                }
+            }
+        ],
+        "image": "Fruits173.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 166,
+                    "x": 187,
+                    "width": 255,
+                    "height": 282
+                }
+            }
+        ],
+        "image": "Fruits174.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 225,
+                    "x": 187,
+                    "width": 253,
+                    "height": 284
+                }
+            }
+        ],
+        "image": "Fruits175.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 225,
+                    "x": 187,
+                    "width": 256,
+                    "height": 284
+                }
+            }
+        ],
+        "image": "Fruits176.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 285,
+                    "x": 210,
+                    "width": 320,
+                    "height": 350
+                }
+            }
+        ],
+        "image": "Fruits177.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 284,
+                    "x": 212,
+                    "width": 319,
+                    "height": 353
+                }
+            }
+        ],
+        "image": "Fruits178.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 220,
+                    "x": 202,
+                    "width": 319,
+                    "height": 354
+                }
+            }
+        ],
+        "image": "Fruits179.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 217,
+                    "x": 202,
+                    "width": 321,
+                    "height": 356
+                }
+            }
+        ],
+        "image": "Fruits180.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 267,
+                    "x": 248,
+                    "width": 261,
+                    "height": 269
+                }
+            }
+        ],
+        "image": "Fruits181.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 267,
+                    "x": 251,
+                    "width": 257,
+                    "height": 267
+                }
+            }
+        ],
+        "image": "Fruits182.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 326,
+                    "x": 227,
+                    "width": 180,
+                    "height": 194
+                }
+            }
+        ],
+        "image": "Fruits183.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 312,
+                    "x": 218,
+                    "width": 181,
+                    "height": 198
+                }
+            }
+        ],
+        "image": "Fruits184.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 243,
+                    "x": 246,
+                    "width": 186,
+                    "height": 188
+                }
+            }
+        ],
+        "image": "Fruits185.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 267,
+                    "x": 175,
+                    "width": 193,
+                    "height": 197
+                }
+            }
+        ],
+        "image": "Fruits186.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 348,
+                    "x": 206,
+                    "width": 244,
+                    "height": 247
+                }
+            }
+        ],
+        "image": "Fruits187.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 209,
+                    "x": 205,
+                    "width": 205,
+                    "height": 205
+                }
+            }
+        ],
+        "image": "Fruits188.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 337,
+                    "x": 199,
+                    "width": 235,
+                    "height": 259
+                }
+            }
+        ],
+        "image": "Fruits189.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 251,
+                    "x": 231,
+                    "width": 245,
+                    "height": 270
+                }
+            }
+        ],
+        "image": "Fruits190.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 228,
+                    "x": 202,
+                    "width": 237,
+                    "height": 246
+                }
+            }
+        ],
+        "image": "Fruits191.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 295,
+                    "x": 195,
+                    "width": 218,
+                    "height": 219
+                }
+            }
+        ],
+        "image": "Fruits192.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 231,
+                    "x": 210,
+                    "width": 196,
+                    "height": 201
+                }
+            }
+        ],
+        "image": "Fruits193.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 295,
+                    "x": 145,
+                    "width": 207,
+                    "height": 218
+                }
+            }
+        ],
+        "image": "Fruits194.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 285,
+                    "x": 222,
+                    "width": 247,
+                    "height": 274
+                }
+            }
+        ],
+        "image": "Fruits195.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 290,
+                    "x": 176,
+                    "width": 241,
+                    "height": 241
+                }
+            }
+        ],
+        "image": "Fruits196.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 275,
+                    "x": 185,
+                    "width": 217,
+                    "height": 206
+                }
+            }
+        ],
+        "image": "Fruits197.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 296,
+                    "x": 121,
+                    "width": 100,
+                    "height": 96
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 349,
+                    "x": 195,
+                    "width": 93,
+                    "height": 88
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 302,
+                    "x": 179,
+                    "width": 186,
+                    "height": 181
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 277,
+                    "x": 235,
+                    "width": 172,
+                    "height": 160
+                }
+            }
+        ],
+        "image": "Fruits198.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 353,
+                    "x": 110,
+                    "width": 217,
+                    "height": 171
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 322,
+                    "x": 286,
+                    "width": 92,
+                    "height": 238
+                }
+            }
+        ],
+        "image": "Fruits199.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 289,
+                    "x": 185,
+                    "width": 263,
+                    "height": 60
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 313,
+                    "x": 245,
+                    "width": 246,
+                    "height": 96
+                }
+            }
+        ],
+        "image": "Fruits200.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 271,
+                    "x": 216,
+                    "width": 165,
+                    "height": 56
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 281,
+                    "x": 239,
+                    "width": 142,
+                    "height": 105
+                }
+            }
+        ],
+        "image": "Fruits201.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 286,
+                    "x": 198,
+                    "width": 289,
+                    "height": 48
+                }
+            }
+        ],
+        "image": "Fruits202.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 314,
+                    "x": 152,
+                    "width": 274,
+                    "height": 125
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 348,
+                    "x": 254,
+                    "width": 204,
+                    "height": 229
+                }
+            }
+        ],
+        "image": "Fruits203.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 214,
+                    "x": 186,
+                    "width": 115,
+                    "height": 290
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 188,
+                    "x": 289,
+                    "width": 137,
+                    "height": 317
+                }
+            }
+        ],
+        "image": "Fruits204.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 243,
+                    "x": 156,
+                    "width": 190,
+                    "height": 118
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 241,
+                    "x": 281,
+                    "width": 95,
+                    "height": 119
+                }
+            }
+        ],
+        "image": "Fruits205.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 228,
+                    "x": 167,
+                    "width": 300,
+                    "height": 111
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 273,
+                    "x": 279,
+                    "width": 221,
+                    "height": 186
+                }
+            }
+        ],
+        "image": "Fruits206.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 230,
+                    "x": 180,
+                    "width": 235,
+                    "height": 174
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 241,
+                    "x": 262,
+                    "width": 117,
+                    "height": 181
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 239,
+                    "x": 334,
+                    "width": 105,
+                    "height": 250
+                }
+            }
+        ],
+        "image": "Fruits207.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 159,
+                    "x": 189,
+                    "width": 243,
+                    "height": 86
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 205,
+                    "x": 180,
+                    "width": 239,
+                    "height": 66
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 227,
+                    "x": 233,
+                    "width": 178,
+                    "height": 123
+                }
+            }
+        ],
+        "image": "Fruits208.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 319,
+                    "x": 151,
+                    "width": 144,
+                    "height": 229
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 258,
+                    "x": 215,
+                    "width": 92,
+                    "height": 97
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 334,
+                    "x": 226,
+                    "width": 85,
+                    "height": 165
+                }
+            }
+        ],
+        "image": "Fruits209.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 304,
+                    "x": 169,
+                    "width": 77,
+                    "height": 212
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 304,
+                    "x": 205,
+                    "width": 62,
+                    "height": 207
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 275,
+                    "x": 246,
+                    "width": 56,
+                    "height": 110
+                }
+            }
+        ],
+        "image": "Fruits210.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 212,
+                    "x": 187,
+                    "width": 139,
+                    "height": 41
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 246,
+                    "x": 171,
+                    "width": 134,
+                    "height": 56
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 290,
+                    "x": 224,
+                    "width": 176,
+                    "height": 55
+                }
+            }
+        ],
+        "image": "Fruits211.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 315,
+                    "x": 185,
+                    "width": 58,
+                    "height": 172
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 325,
+                    "x": 219,
+                    "width": 55,
+                    "height": 184
+                }
+            }
+        ],
+        "image": "Fruits212.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 294,
+                    "x": 114,
+                    "width": 97,
+                    "height": 286
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 325,
+                    "x": 283,
+                    "width": 233,
+                    "height": 163
+                }
+            }
+        ],
+        "image": "Fruits213.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 202,
+                    "x": 142,
+                    "width": 192,
+                    "height": 143
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 397,
+                    "x": 212,
+                    "width": 264,
+                    "height": 186
+                }
+            }
+        ],
+        "image": "Fruits214.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 287,
+                    "x": 226,
+                    "width": 240,
+                    "height": 215
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 335,
+                    "x": 243,
+                    "width": 139,
+                    "height": 76
+                }
+            }
+        ],
+        "image": "Fruits215.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 346,
+                    "x": 176,
+                    "width": 85,
+                    "height": 260
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 362,
+                    "x": 250,
+                    "width": 110,
+                    "height": 42
+                }
+            }
+        ],
+        "image": "Fruits216.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 317,
+                    "x": 187,
+                    "width": 61,
+                    "height": 219
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 353,
+                    "x": 259,
+                    "width": 84,
+                    "height": 47
+                }
+            }
+        ],
+        "image": "Fruits217.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 146,
+                    "x": 226,
+                    "width": 170,
+                    "height": 108
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 311,
+                    "x": 204,
+                    "width": 105,
+                    "height": 158
+                }
+            }
+        ],
+        "image": "Fruits218.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 244,
+                    "x": 256,
+                    "width": 138,
+                    "height": 125
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 334,
+                    "x": 235,
+                    "width": 185,
+                    "height": 128
+                }
+            }
+        ],
+        "image": "Fruits219.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 389,
+                    "x": 287,
+                    "width": 214,
+                    "height": 111
+                }
+            }
+        ],
+        "image": "Fruits220.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 327,
+                    "x": 204,
+                    "width": 304,
+                    "height": 79
+                }
+            }
+        ],
+        "image": "Fruits221.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 297,
+                    "x": 209,
+                    "width": 315,
+                    "height": 77
+                }
+            }
+        ],
+        "image": "Fruits222.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 277,
+                    "x": 186,
+                    "width": 214,
+                    "height": 124
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 275,
+                    "x": 212,
+                    "width": 93,
+                    "height": 181
+                }
+            }
+        ],
+        "image": "Fruits223.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 346,
+                    "x": 206,
+                    "width": 354,
+                    "height": 120
+                }
+            }
+        ],
+        "image": "Fruits224.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 293,
+                    "x": 214,
+                    "width": 326,
+                    "height": 94
+                }
+            }
+        ],
+        "image": "Fruits225.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 288,
+                    "x": 212,
+                    "width": 187,
+                    "height": 203
+                }
+            }
+        ],
+        "image": "Fruits226.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 258,
+                    "x": 203,
+                    "width": 239,
+                    "height": 61
+                }
+            }
+        ],
+        "image": "Fruits227.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 264,
+                    "x": 234,
+                    "width": 260,
+                    "height": 77
+                }
+            }
+        ],
+        "image": "Fruits228.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 205,
+                    "x": 232,
+                    "width": 80,
+                    "height": 21
+                }
+            }
+        ],
+        "image": "Fruits229.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 253,
+                    "x": 194,
+                    "width": 78,
+                    "height": 143
+                }
+            }
+        ],
+        "image": "Fruits230.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 169,
+                    "x": 188,
+                    "width": 142,
+                    "height": 282
+                }
+            }
+        ],
+        "image": "Fruits231.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 317,
+                    "x": 148,
+                    "width": 102,
+                    "height": 115
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 170,
+                    "x": 173,
+                    "width": 62,
+                    "height": 65
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 255,
+                    "x": 293,
+                    "width": 74,
+                    "height": 75
+                }
+            }
+        ],
+        "image": "Fruits232.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 124,
+                    "x": 144,
+                    "width": 103,
+                    "height": 107
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 248,
+                    "x": 342,
+                    "width": 115,
+                    "height": 126
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 345,
+                    "x": 110,
+                    "width": 169,
+                    "height": 184
+                }
+            }
+        ],
+        "image": "Fruits233.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 322,
+                    "x": 196,
+                    "width": 210,
+                    "height": 187
+                }
+            }
+        ],
+        "image": "Fruits234.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 177,
+                    "x": 277,
+                    "width": 166,
+                    "height": 42
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 139,
+                    "x": 330,
+                    "width": 131,
+                    "height": 48
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 426,
+                    "x": 206,
+                    "width": 111,
+                    "height": 123
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 310,
+                    "x": 159,
+                    "width": 136,
+                    "height": 107
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 354,
+                    "x": 374,
+                    "width": 50,
+                    "height": 106
+                }
+            }
+        ],
+        "image": "Fruits235.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 308,
+                    "x": 202,
+                    "width": 176,
+                    "height": 198
+                }
+            }
+        ],
+        "image": "Fruits236.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 285,
+                    "x": 188,
+                    "width": 236,
+                    "height": 75
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 47,
+                    "x": 69,
+                    "width": 64,
+                    "height": 72
+                }
+            }
+        ],
+        "image": "Fruits237.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 104,
+                    "x": 99,
+                    "width": 56,
+                    "height": 62
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 331,
+                    "x": 196,
+                    "width": 221,
+                    "height": 80
+                }
+            }
+        ],
+        "image": "Fruits238.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 316,
+                    "x": 210,
+                    "width": 93,
+                    "height": 215
+                }
+            }
+        ],
+        "image": "Fruits239.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 322,
+                    "x": 215,
+                    "width": 94,
+                    "height": 215
+                }
+            }
+        ],
+        "image": "Fruits240.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 232,
+                    "x": 151,
+                    "width": 93,
+                    "height": 172
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 319,
+                    "x": 257,
+                    "width": 88,
+                    "height": 209
+                }
+            }
+        ],
+        "image": "Fruits241.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 352,
+                    "x": 130,
+                    "width": 119,
+                    "height": 195
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 315,
+                    "x": 255,
+                    "width": 93,
+                    "height": 199
+                }
+            }
+        ],
+        "image": "Fruits242.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 259,
+                    "x": 117,
+                    "width": 75,
+                    "height": 81
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 251,
+                    "x": 214,
+                    "width": 85,
+                    "height": 77
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 349,
+                    "x": 195,
+                    "width": 98,
+                    "height": 110
+                }
+            }
+        ],
+        "image": "Fruits243.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 181,
+                    "x": 221,
+                    "width": 55,
+                    "height": 61
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 357,
+                    "x": 237,
+                    "width": 91,
+                    "height": 96
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 276,
+                    "x": 65,
+                    "width": 87,
+                    "height": 139
+                }
+            }
+        ],
+        "image": "Fruits244.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 252,
+                    "x": 129,
+                    "width": 110,
+                    "height": 127
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 195,
+                    "x": 307,
+                    "width": 61,
+                    "height": 63
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 389,
+                    "x": 207,
+                    "width": 88,
+                    "height": 91
+                }
+            }
+        ],
+        "image": "Fruits245.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 320,
+                    "x": 201,
+                    "width": 75,
+                    "height": 75
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 268,
+                    "x": 342,
+                    "width": 76,
+                    "height": 77
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 330,
+                    "x": 123,
+                    "width": 132,
+                    "height": 173
+                }
+            }
+        ],
+        "image": "Fruits246.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 326,
+                    "x": 118,
+                    "width": 129,
+                    "height": 181
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 314,
+                    "x": 199,
+                    "width": 75,
+                    "height": 74
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 263,
+                    "x": 339,
+                    "width": 75,
+                    "height": 76
+                }
+            }
+        ],
+        "image": "Fruits247.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 281,
+                    "x": 182,
+                    "width": 57,
+                    "height": 59
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 249,
+                    "x": 271,
+                    "width": 52,
+                    "height": 54
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 298,
+                    "x": 117,
+                    "width": 85,
+                    "height": 101
+                }
+            }
+        ],
+        "image": "Fruits248.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 313,
+                    "x": 86,
+                    "width": 132,
+                    "height": 153
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 282,
+                    "x": 196,
+                    "width": 94,
+                    "height": 103
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 234,
+                    "x": 341,
+                    "width": 90,
+                    "height": 91
+                }
+            }
+        ],
+        "image": "Fruits249.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 148,
+                    "x": 170,
+                    "width": 123,
+                    "height": 136
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 392,
+                    "x": 162,
+                    "width": 193,
+                    "height": 231
+                }
+            }
+        ],
+        "image": "Fruits250.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 315,
+                    "x": 314,
+                    "width": 171,
+                    "height": 168
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 320,
+                    "x": 119,
+                    "width": 137,
+                    "height": 139
+                }
+            }
+        ],
+        "image": "Fruits251.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 274,
+                    "x": 205,
+                    "width": 81,
+                    "height": 88
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 346,
+                    "x": 97,
+                    "width": 95,
+                    "height": 88
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 407,
+                    "x": 240,
+                    "width": 155,
+                    "height": 141
+                }
+            }
+        ],
+        "image": "Fruits252.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 347,
+                    "x": 310,
+                    "width": 179,
+                    "height": 135
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 390,
+                    "x": 117,
+                    "width": 132,
+                    "height": 145
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 320,
+                    "x": 163,
+                    "width": 88,
+                    "height": 95
+                }
+            }
+        ],
+        "image": "Fruits253.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 341,
+                    "x": 261,
+                    "width": 91,
+                    "height": 98
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 293,
+                    "x": 322,
+                    "width": 68,
+                    "height": 73
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 359,
+                    "x": 111,
+                    "width": 145,
+                    "height": 125
+                }
+            }
+        ],
+        "image": "Fruits254.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 326,
+                    "x": 126,
+                    "width": 97,
+                    "height": 94
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 366,
+                    "x": 242,
+                    "width": 91,
+                    "height": 96
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 316,
+                    "x": 319,
+                    "width": 67,
+                    "height": 74
+                }
+            }
+        ],
+        "image": "Fruits255.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 158,
+                    "x": 244,
+                    "width": 82,
+                    "height": 85
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 252,
+                    "x": 369,
+                    "width": 61,
+                    "height": 91
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 341,
+                    "x": 159,
+                    "width": 189,
+                    "height": 218
+                }
+            }
+        ],
+        "image": "Fruits256.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 324,
+                    "x": 78,
+                    "width": 91,
+                    "height": 205
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 366,
+                    "x": 173,
+                    "width": 92,
+                    "height": 216
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 214,
+                    "x": 214,
+                    "width": 68,
+                    "height": 67
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 296,
+                    "x": 327,
+                    "width": 79,
+                    "height": 79
+                }
+            }
+        ],
+        "image": "Fruits257.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 287,
+                    "x": 207,
+                    "width": 60,
+                    "height": 61
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 308,
+                    "x": 320,
+                    "width": 76,
+                    "height": 76
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 336,
+                    "x": 63,
+                    "width": 108,
+                    "height": 92
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 356,
+                    "x": 156,
+                    "width": 112,
+                    "height": 111
+                }
+            }
+        ],
+        "image": "Fruits258.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 329,
+                    "x": 121,
+                    "width": 185,
+                    "height": 66
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 367,
+                    "x": 119,
+                    "width": 188,
+                    "height": 88
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 319,
+                    "x": 269,
+                    "width": 63,
+                    "height": 67
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 375,
+                    "x": 323,
+                    "width": 92,
+                    "height": 97
+                }
+            }
+        ],
+        "image": "Fruits259.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 320,
+                    "x": 267,
+                    "width": 63,
+                    "height": 71
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 375,
+                    "x": 321,
+                    "width": 96,
+                    "height": 98
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 331,
+                    "x": 112,
+                    "width": 168,
+                    "height": 69
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 365,
+                    "x": 118,
+                    "width": 183,
+                    "height": 88
+                }
+            }
+        ],
+        "image": "Fruits260.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 332,
+                    "x": 72,
+                    "width": 89,
+                    "height": 248
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 345,
+                    "x": 336,
+                    "width": 126,
+                    "height": 233
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 374,
+                    "x": 187,
+                    "width": 140,
+                    "height": 116
+                }
+            }
+        ],
+        "image": "Fruits261.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 314,
+                    "x": 217,
+                    "width": 128,
+                    "height": 130
+                }
+            }
+        ],
+        "image": "Fruits262.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 329,
+                    "x": 204,
+                    "width": 137,
+                    "height": 151
+                }
+            }
+        ],
+        "image": "Fruits263.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 300,
+                    "x": 172,
+                    "width": 120,
+                    "height": 127
+                }
+            }
+        ],
+        "image": "Fruits264.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 104,
+                    "x": 230,
+                    "width": 126,
+                    "height": 130
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 406,
+                    "x": 228,
+                    "width": 127,
+                    "height": 131
+                }
+            }
+        ],
+        "image": "Fruits265.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 322,
+                    "x": 81,
+                    "width": 110,
+                    "height": 110
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 366,
+                    "x": 290,
+                    "width": 136,
+                    "height": 148
+                }
+            }
+        ],
+        "image": "Fruits266.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 316,
+                    "x": 301,
+                    "width": 101,
+                    "height": 104
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 313,
+                    "x": 121,
+                    "width": 158,
+                    "height": 120
+                }
+            }
+        ],
+        "image": "Fruits267.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 342,
+                    "x": 94,
+                    "width": 134,
+                    "height": 121
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 344,
+                    "x": 296,
+                    "width": 93,
+                    "height": 95
+                }
+            }
+        ],
+        "image": "Fruits268.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 333,
+                    "x": 321,
+                    "width": 95,
+                    "height": 96
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 329,
+                    "x": 119,
+                    "width": 147,
+                    "height": 114
+                }
+            }
+        ],
+        "image": "Fruits269.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 302,
+                    "x": 105,
+                    "width": 138,
+                    "height": 118
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 274,
+                    "x": 293,
+                    "width": 89,
+                    "height": 92
+                }
+            }
+        ],
+        "image": "Fruits270.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 300,
+                    "x": 293,
+                    "width": 90,
+                    "height": 92
+                }
+            },
+            {
+                "label": "mango",
+                "coordinates": {
+                    "y": 332,
+                    "x": 102,
+                    "width": 142,
+                    "height": 124
+                }
+            }
+        ],
+        "image": "Fruits271.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 232,
+                    "x": 234,
+                    "width": 89,
+                    "height": 88
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 327,
+                    "x": 128,
+                    "width": 142,
+                    "height": 246
+                }
+            }
+        ],
+        "image": "Fruits272.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 330,
+                    "x": 129,
+                    "width": 153,
+                    "height": 181
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 250,
+                    "x": 254,
+                    "width": 94,
+                    "height": 95
+                }
+            }
+        ],
+        "image": "Fruits273.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 201,
+                    "x": 62,
+                    "width": 53,
+                    "height": 54
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 340,
+                    "x": 332,
+                    "width": 112,
+                    "height": 111
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 347,
+                    "x": 116,
+                    "width": 218,
+                    "height": 144
+                }
+            }
+        ],
+        "image": "Fruits274.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 350,
+                    "x": 117,
+                    "width": 230,
+                    "height": 99
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 364,
+                    "x": 325,
+                    "width": 111,
+                    "height": 115
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 248,
+                    "x": 90,
+                    "width": 49,
+                    "height": 49
+                }
+            }
+        ],
+        "image": "Fruits275.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 254,
+                    "x": 93,
+                    "width": 128,
+                    "height": 224
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 308,
+                    "x": 249,
+                    "width": 202,
+                    "height": 194
+                }
+            }
+        ],
+        "image": "Fruits276.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 330,
+                    "x": 97,
+                    "width": 145,
+                    "height": 123
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 346,
+                    "x": 268,
+                    "width": 222,
+                    "height": 118
+                }
+            },
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 235,
+                    "x": 74,
+                    "width": 52,
+                    "height": 52
+                }
+            }
+        ],
+        "image": "Fruits277.png"
+    },
+    {
+        "annotations": [
+            {
+                "label": "apple",
+                "coordinates": {
+                    "y": 282,
+                    "x": 74,
+                    "width": 49,
+                    "height": 46
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 340,
+                    "x": 90,
+                    "width": 143,
+                    "height": 78
+                }
+            },
+            {
+                "label": "banana",
+                "coordinates": {
+                    "y": 353,
+                    "x": 258,
+                    "width": 215,
+                    "height": 86
+                }
+            }
+        ],
+        "image": "Fruits278.png"
+    }
+]
